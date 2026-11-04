@@ -1,0 +1,4 @@
+-- Project: Olist E-Commerce SQL Analysis
+-- File: 01_data_exploration.sql
+-- Database: PostgreSQL
+-- Purpose: Initial exploration of the dataset
